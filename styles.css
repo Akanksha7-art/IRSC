@@ -1,0 +1,122 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+body{
+ font-family: sans-serif;
+ background-color: #e5e5e5;
+}
+.main{
+ margin: 0;
+}
+
+
+
+#state{
+  margin: 2% 3.8%;
+  padding: 5px 2px;
+  border-radius: 6%;
+}
+#date{
+  margin: 2% 0;
+  padding: 5px 2px;
+  border-radius: 6%;
+}
+.search-bar{
+  float: right;
+  margin: 20px 0;
+  padding-right: 3.5%;
+
+}
+
+
+
+.navbar{
+  background-color: #145374;
+}
+.nav-link{
+  color: #ffff;
+  padding: 10px;
+  margin-left: 40px
+}
+.navbar-brand{
+  margin-left: 42px;
+  color: #ffff;
+}
+.login{
+  margin-left: 55%;
+}
+.register{
+  margin-left: 50px;
+}
+
+
+
+
+.card{
+     width: 25%;
+     display: inline-block;
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+     border-color: #ececec ;
+     border-width: 2px;
+     border-radius: 2px;
+     margin-left: 20px;
+     margin: 4%;
+    }
+#para1{
+  text-align: left;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 20%;
+  margin-bottom: 5px;
+
+}
+#para2{
+  text-align: right;
+  display: inline-block;
+  padding-right: 1px;
+  padding-left: 20%;
+  margin-bottom: 5px;
+
+}
+.title{
+  text-align: left;
+  padding-top:20px;
+  padding-left: 10px;
+  padding-right: 40px;
+  font-weight: bold;
+
+}
+ h5{
+   text-align: left;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   padding-top:5px ;
+   padding-left: 10px;
+   font-family: cursive;
+   font-weight: lighter;
+   font-size: 15px;
+ }
+button{
+  margin-top: 2px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding:10px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #145374;
+  color: white;
+  padding: 5px 28px;
+  font-size: 16px;
+  text-align: center;
+}
